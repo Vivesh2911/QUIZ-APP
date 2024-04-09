@@ -1,0 +1,40 @@
+.headi{
+  text-align: center;
+}
+.Screenone{
+  border: 1px solid black;
+  margin: 1%;
+  border: 10px;
+  box-shadow: 1px 1px 10px black;
+  padding: 3%;
+  /* align-items: center; */
+  text-align: center;
+  width: 50vw;
+  height: 30vh;
+  margin-left: 22%;
+}
+.inp{
+  width: 45%;
+  margin: 3%;
+  padding: 1%;
+  border-radius: 10px;
+}
+.opt{
+  width: 35%;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 10px;
+}
+.btn{
+  background-color: rgb(40, 226, 40);
+  border: 1px solid green;
+  padding: 1%;
+  border-radius: 10px;
+  margin: 3%;
+}
+.btn:hover{
+  cursor: pointer;
+  transition-duration: 30ms;
+  background-color: rgb(50, 168, 50);
+  color: rgb(248, 244, 244);
+}

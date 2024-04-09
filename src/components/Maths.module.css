@@ -1,0 +1,14 @@
+.ans{
+  display: flex;
+  list-style: none;
+}
+/* .questi{
+  border: 1px solid black;
+} */
+.output{
+  border: 1px solid black;
+  margin: 1%;
+  padding: 1%;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px black;
+}
